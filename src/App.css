@@ -1,0 +1,22 @@
+body {
+  /* background-color: darkslategray;
+  color: white; */
+}
+
+.kartya {
+  /* background-color: purple; */
+}
+
+.dolt {
+  font-style: italic;
+}
+
+#focim {
+  color: rgb(250, 250, 200);
+}
+
+.kep-kartya-kep {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+}
